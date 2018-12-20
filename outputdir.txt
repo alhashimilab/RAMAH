@@ -1,0 +1,15 @@
+RAMAH Output Directions
+
+Szz is: >
+
+--Iterations: 10000
+--Weighting: Un
+--Error Span: 3
+--Keep best:  10%
+--SF Map:  All
+--Cartesian: No 
+--Output all solutions:  No
+  ++  Sxx, Syy, Szz:  Yes
+  ++    GDO, eta   :  Yes
+  ++    Da, Dr, R  :   No
+  ++    RMSD       :  Yes
