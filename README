@@ -1,0 +1,14 @@
+
+
+#step 1
+python convert.py
+
+#step 2
+bash run_reduce.sh
+
+#step 3
+python geninp.py
+
+#step 4
+bash run_ramah.sh
+

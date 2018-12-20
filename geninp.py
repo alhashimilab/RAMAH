@@ -3,7 +3,7 @@
 from pdblib.base import *
 
 err = 2.0
-mol = Mol('./A2DNA_bform_new.pdb')
+mol = Mol('./A2DNA_bform_new_withH.pdb')
 dic = {'ADE': [["C1'","H1'"],["C4'","H4'"],["",""],["C2","H2"],["C8","H8"],["",""]],
        'GUA': [["C1'","H1'"],["C4'","H4'"],["",""],["",""],["C8","H8"],["N1","H1"]],
        'CYT': [["C1'","H1'"],["C4'","H4'"],["C5","H5"],["",""],["C6","H6"],["",""]],
